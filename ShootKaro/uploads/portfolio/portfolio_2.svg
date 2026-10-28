@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#1f2937"/>
+  <rect x="180" y="80" width="240" height="150" rx="8" fill="#111827" stroke="#4b5563" stroke-width="2"/>
+  <circle cx="300" cy="155" r="35" fill="none" stroke="#9ca3af" stroke-width="2"/>
+  <text x="300" y="300" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#ffffff" text-anchor="middle">Corporate Conclave Keynote</text>
+  <text x="300" y="330" font-family="system-ui, sans-serif" font-size="14" fill="#9ca3af" text-anchor="middle">Balewadi High Street, Pune</text>
+</svg>

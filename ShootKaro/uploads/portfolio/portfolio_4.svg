@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#18181b"/>
+  <!-- Infrastructure grid lines -->
+  <line x1="100" y1="200" x2="500" y2="200" stroke="#71717a" stroke-width="4"/>
+  <rect x="240" y="160" width="120" height="80" fill="#27272a" stroke="#a1a1aa" stroke-width="2"/>
+  <text x="300" y="310" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#ffffff" text-anchor="middle">Metro Viaduct Orthomosaic</text>
+  <text x="300" y="340" font-family="system-ui, sans-serif" font-size="14" fill="#a1a1aa" text-anchor="middle">Commercial Drone Survey, Pune</text>
+</svg>

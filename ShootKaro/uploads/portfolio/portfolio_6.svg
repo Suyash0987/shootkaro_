@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#1c1917"/>
+  <circle cx="300" cy="160" r="60" fill="none" stroke="#e7e5e4" stroke-width="2"/>
+  <circle cx="300" cy="160" r="30" fill="#292524" stroke="#a8a29e" stroke-width="1.5"/>
+  <text x="300" y="310" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#ffffff" text-anchor="middle">Classical Dance Recital Candid</text>
+  <text x="300" y="340" font-family="system-ui, sans-serif" font-size="14" fill="#a8a29e" text-anchor="middle">Shivajinagar Studio | 85mm f/1.2</text>
+</svg>

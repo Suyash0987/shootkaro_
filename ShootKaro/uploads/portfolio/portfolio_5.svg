@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#09090b"/>
+  <!-- Phone 9:16 frame inside -->
+  <rect x="235" y="40" width="130" height="230" rx="16" fill="#18181b" stroke="#52525b" stroke-width="2"/>
+  <circle cx="300" cy="140" r="28" fill="#27272a"/>
+  <polygon points="295,130 310,140 295,150" fill="#ffffff"/>
+  <text x="300" y="320" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#ffffff" text-anchor="middle">FC Road Street Fashion Campaign</text>
+  <text x="300" y="350" font-family="system-ui, sans-serif" font-size="14" fill="#a1a1aa" text-anchor="middle">Mobile 4K ProRes 60fps Reels</text>
+</svg>

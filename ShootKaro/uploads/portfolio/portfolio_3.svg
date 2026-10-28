@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#0f172a"/>
+  <!-- Mountain peaks -->
+  <polygon points="100,280 220,130 340,280" fill="#1e293b"/>
+  <polygon points="260,280 390,100 520,280" fill="#334155"/>
+  <!-- Drone silhouette -->
+  <circle cx="300" cy="70" r="10" fill="#ffffff"/>
+  <line x1="260" y1="70" x2="340" y2="70" stroke="#ffffff" stroke-width="3"/>
+  <text x="300" y="325" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#ffffff" text-anchor="middle">Western Ghats Aerial Survey</text>
+  <text x="300" y="355" font-family="system-ui, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">4K HDR Drone Flight at 120m Altitude</text>
+</svg>
